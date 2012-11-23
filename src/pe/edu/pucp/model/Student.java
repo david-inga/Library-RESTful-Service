@@ -25,6 +25,7 @@ public class Student implements Serializable {
 	private Email email;
 	private String password;
 
+	
 	public Student() {
 
 	}
